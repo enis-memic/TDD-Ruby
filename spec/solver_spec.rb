@@ -17,4 +17,8 @@ describe Solver do
     expect(@solver.factorial(4)).to eq(24)
   end
 
+  it 'Test for word reversed' do
+    expect(@solver.reversed(word)).to be('olleh')
+  end
+
 end
