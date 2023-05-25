@@ -9,6 +9,8 @@ describe Solver do
     expect {@solver.factorial(-4)}.to raise_error(ArgumentError)
   end
 
-  it ''
+  it 'Test when number is 0 to be 1' do
+    expect (@solver.factorial(0)).to eq(1)
+  end
 
 end
