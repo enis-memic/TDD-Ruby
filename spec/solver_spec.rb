@@ -18,7 +18,7 @@ describe Solver do
   end
 
   it 'Test for word reversed' do
-    expect(@solver.reversed(word)).to be('olleh')
+    expect(@solver.reverse('Hello')).to eq('olleH')
   end
 
 end

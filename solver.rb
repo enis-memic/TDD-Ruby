@@ -5,6 +5,10 @@ class Solver
 
     number * factorial(number -1)
   end
+
+  def reverse(word)
+    word.reverse
+  end
     
 
 end
