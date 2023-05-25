@@ -85,7 +85,7 @@ In order to run this project you need: any web-browser.
 
 ### Setup
 
-Clone this [repository](https://github.com/enis-memic/TTD-Ruby.git) to your desired folder.
+Clone this [repository](https://github.com/enis-memic/TDD-Ruby.git) to your desired folder.
 
 ### Install
 
@@ -95,7 +95,7 @@ This project does not require installation.
 
 **To run the project follow the following instruction:-**
 
-- Clone this [repository](https://github.com/enis-memic/TTD-Ruby.git) in your local machine with correct branch.
+- Clone this [repository](https://github.com/enis-memic/TDD-Ruby.git) in your local machine with correct branch.
 - Run **ruby main.rb**
 
 ### Run tests
